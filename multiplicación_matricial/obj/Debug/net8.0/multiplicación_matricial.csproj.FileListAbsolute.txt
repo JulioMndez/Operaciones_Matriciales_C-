@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\bin\Debug\net8.0\multiplicación_matricial.exe
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\bin\Debug\net8.0\multiplicación_matricial.deps.json
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\bin\Debug\net8.0\multiplicación_matricial.runtimeconfig.json
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\bin\Debug\net8.0\multiplicación_matricial.dll
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\bin\Debug\net8.0\multiplicación_matricial.pdb
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\obj\Debug\net8.0\multiplicación_matricial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\obj\Debug\net8.0\multiplicación_matricial.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\obj\Debug\net8.0\multiplicación_matricial.AssemblyInfo.cs
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\obj\Debug\net8.0\multiplicación_matricial.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\obj\Debug\net8.0\multiplicación_matricial.dll
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\obj\Debug\net8.0\refint\multiplicación_matricial.dll
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\obj\Debug\net8.0\multiplicación_matricial.pdb
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\obj\Debug\net8.0\multiplicación_matricial.genruntimeconfig.cache
+C:\Users\usuario\Documents\AlgebraLineal\Trabajos\Semana5\OperacionesMatriciales\multiplicación_matricial\obj\Debug\net8.0\ref\multiplicación_matricial.dll
